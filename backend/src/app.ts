@@ -85,20 +85,20 @@ const swaggerOptions = {
       }
     }
   },
-  apis: ['./src/routes/*.js']
+  apis: ['./src/routes/*.ts']
 };
 
 const swaggerDocs = swaggerJsdoc(swaggerOptions);
-app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocs));
+app.use('/api/docs', swaggerUi.serve, swaggerUi.setup(swaggerDocs));
 
 app.use('/api/projects', projectRouter);
 
 // Ping test
-app.get('/ping', (req: Request, res: Response) => {
+app.get('/api/ping', (req: Request, res: Response) => {
   res.json({ status: 'ok', message: 'pong' });
 });
 
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
-  console.log(`API Docs available at http://localhost:${PORT}/api-docs`);
+  console.log(`API Docs available at http://localhost:${PORT}/api/docs`);
 });
