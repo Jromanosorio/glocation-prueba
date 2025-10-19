@@ -17,4 +17,4 @@ EXPOSE 5173
 
 # Iniciar Vite
 # --host permite acceso desde fuera del contenedor
-CMD ["npm run dev -- --host"]
+CMD ["npm", "run", "dev", "--", "--host"]
