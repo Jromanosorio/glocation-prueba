@@ -122,3 +122,10 @@ Permite obtener los datos filtrados por estado de los proyectos para mostrarlos 
 
 **Javier Roman Osorio**
 📧 [[jandres.roman.08@gmail.com](mailto:jandres.roman.08@gmail.com)]
+
+<img width="1919" height="1077" alt="app proyectos 1" src="https://github.com/user-attachments/assets/9dc456de-9a25-4fc1-8293-eb767bd6fbec" />
+<img width="1364" height="225" alt="app proyectos 2" src="https://github.com/user-attachments/assets/fae955df-748c-4672-957e-010e99380f77" />
+<img width="1919" height="1079" alt="app proyectos 3" src="https://github.com/user-attachments/assets/3dfecff4-b21f-4ca5-86a1-d45fc9c240d8" />
+
+<img width="497" height="1077" alt="app proyectos 4" src="https://github.com/user-attachments/assets/5a1bfd48-940e-42be-a149-06688fae0536" /><img width="497" height="1076" alt="app proyectos 5" src="https://github.com/user-attachments/assets/a7518c95-7ea2-4eb4-bd05-8df6b047e58e" />
+
